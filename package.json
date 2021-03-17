@@ -1,0 +1,23 @@
+{
+  "name": "boatserver",
+  "version": "1.0.0",
+  "description": "Boat Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/An-Aries-Adventure/Boatserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/An-Aries-Adventure/Boatserver/issues"
+  },
+  "homepage": "https://github.com/An-Aries-Adventure/Boatserver#readme",
+  "dependencies": {
+    "config": "^3.3.6",
+    "mongoose": "^5.12.0"
+  }
+}
