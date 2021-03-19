@@ -13,3 +13,12 @@ const boatSchema = new mongoose.Schema({
   motorType: String,
   
 });
+
+const Boat = mongoose.model('Boat', boatSchema);
+
+
+
+
+
+module.exports = Boat;
+
